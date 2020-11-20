@@ -4,8 +4,8 @@
 
 ### Data
 
-The Original data is from VAMPIRE https://vampire.computing.dundee.ac.uk/vesselseg.html
-They have Ultra Wide field view of Retinal Images which gives much more window in the images for examining the vessels. 
+The Original data is from VAMPIRE https://vampire.computing.dundee.ac.uk/vesselseg.html. 
+They have Ultra Wide field view of Retinal Images which gives much more scope for examining the vessels. Whereas the original Retinal Fundus Images don't have that much large view for examining the vessels. 
 
 ### Data augmentation
 
