@@ -31,28 +31,11 @@ After 5 epochs, calculated accuracy is about 89.6%
 
 Loss function for the training is basically just a binary crossentropy.
 
+## Pre-Processing steps
+
+I have performed Image Sharpening to further enhance the quality of the images. Because the original images are of low quality. 
 
 ---
-
-## How to use
-
-### Dependencies
-
-This tutorial depends on the following libraries:
-
-* Tensorflow
-* Keras >= 1.0
-
-Also, this code should be compatible with Python versions 2.7-3.5.
-
-### Run main.py
-
-You will see the predicted results of test image in data/membrane/test
-
-
-### Results
-
-Use the trained model to do segmentation on test images, the result is statisfactory.
 
 ## About Keras
 
